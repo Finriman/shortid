@@ -1,3 +1,3 @@
-module github.com/teris-io/shortid
+module github.com/Finriman/shortid
 
 go 1.18
